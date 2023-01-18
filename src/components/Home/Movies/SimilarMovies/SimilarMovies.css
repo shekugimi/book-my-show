@@ -1,0 +1,21 @@
+.similar-movies {
+    width: 100%;
+    max-width: 1400px;
+    margin: auto;
+
+}
+
+.sm_title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px;
+}
+
+.sm-movie-card {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}

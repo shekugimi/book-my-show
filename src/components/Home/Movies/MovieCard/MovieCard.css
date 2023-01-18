@@ -1,0 +1,36 @@
+.movie-card {
+    margin: 25px;
+
+}
+
+.movie-card-wrap {
+    height: 350px;
+    width: 200px;
+
+}
+
+.movie-card-wrap img {
+    height: 300px;
+    width: 250px;
+    object-fit: cover;
+}
+
+
+.movie-card-title {
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(67, 66, 66);
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 10px;
+}
+
+
+.movie-card-wrap a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 10px;
+}
