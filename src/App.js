@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Header/Navbar';
 import Home from './components/Home/Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import MovieSpecific from './components/MovieSpecific/MovieSpecific';
+import MovieSpecific from './components/Home/Movies/MovieSpecific/MovieSpecific';
 import Login from './components/Login/Login';
 
 function App() {
